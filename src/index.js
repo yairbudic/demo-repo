@@ -3,7 +3,7 @@ var keySize = 256;
 var ivSize = 128;
 var iterations = 100;
 
-var message = "'paster#1':'not-all-the-things-should-be-copy'";
+var message = "'paster#1':'not-all-the-things-should-be-copy----'";
 var password = "Secret Password";
 
 
